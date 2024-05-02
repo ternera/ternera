@@ -5,4 +5,4 @@ I strive to do the best in everything I do, no matter the cost.
 
 *For all things work out for good for those who love Him.*
 
-<img src="https://api.status.gg/discord/95596106376814592?theme%5Bbackground%5D%5Bprimary%5D=000000&%5D%5Bprimary%5D=000000&theme%5Bbackground%5D%5Bsecondary%5D=000000&theme%5Blogo%5D=ffffff00" width="50%">
+![status](https://api.statusbadges.me/badge/status/95596106376814592?style=for-the-badge) ![playing](https://api.statusbadges.me/badge/playing/95596106376814592&fallback=nothing&style=for-the-badge) ![spotify](https://api.statusbadges.me/badge/spotify/95596106376814592?style=for-the-badge&fallback=nothing)
