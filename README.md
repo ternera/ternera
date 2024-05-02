@@ -1,5 +1,5 @@
 Hi, I'm ternera! 👋<br>
-My username is from the Spanish language) and is also used as my gamertag on the web. I lead some online communities and am interested in writing about technology. Recently, I have started writing about CTF (capture the flag) challenges and the steps I took to solve them.
+My username is from the Spanish language and is also used as my gamertag on the web. I lead some online communities and am interested in writing about technology. Recently, I have started writing about CTF (capture the flag) challenges and the steps I take to solve them.
 
 I strive to do the best in everything I do, no matter the cost.
 
